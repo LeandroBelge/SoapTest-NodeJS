@@ -1,0 +1,22 @@
+{
+  "name": "soaptest-nodejs",
+  "version": "1.0.0",
+  "description": "Testing SoapServices with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroBelge/SoapTest-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroBelge/SoapTest-NodeJS/issues"
+  },
+  "homepage": "https://github.com/LeandroBelge/SoapTest-NodeJS#readme",
+  "dependencies": {
+    "soap": "^0.39.0"
+  }
+}
